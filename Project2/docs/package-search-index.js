@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"edu.ncsu.csc216.wolf_tracker.model.io"},{"l":"edu.ncsu.csc216.wolf_tracker.model.log"},{"l":"edu.ncsu.csc216.wolf_tracker.model.project"},{"l":"edu.ncsu.csc216.wolf_tracker.model.task"},{"l":"edu.ncsu.csc216.wolf_tracker.model.util"},{"l":"edu.ncsu.csc216.wolf_tracker.view.gui"}];updateSearchResults();
